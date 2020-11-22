@@ -1,0 +1,5 @@
+Random r = new Random
+
+
+int lives =r.Next(2,5);
+Console.WriteLine("You have" + lives + "use them wisely");
