@@ -1,6 +1,6 @@
 Random r = new Random();
 
-int n = r.Next(20);
+int n = r.Next(50);
 int posX;
 int posY;
 
