@@ -1,5 +1,5 @@
 for(int a=99; a>=0;a--)
-{if(a=0)
+{if(a==0)
   {
   Console.WriteLine("Time Out");
   }
