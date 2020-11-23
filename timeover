@@ -1,6 +1,6 @@
 for(int a=99, a>=0,a--)
 {if(a=0)
   {
-  Console.Writeline("Time Out");
+  Console.WriteLine("Time Out");
   }
 }
