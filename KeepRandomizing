@@ -1,0 +1,11 @@
+Random r = new Random();
+
+int n = r.Next(20);
+int posX;
+
+for (int i = 0; i <= n; i++)
+  {
+    posX = r.Next(500);
+    posY = r.Next(500);
+    Console.WriteLine("X :" + posX + " Y :" + posY);
+  }
