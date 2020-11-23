@@ -1,4 +1,4 @@
-for(int a=99, a>=0,a--)
+for(int a=99; a>=0;a--)
 {if(a=0)
   {
   Console.WriteLine("Time Out");
