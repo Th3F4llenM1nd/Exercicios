@@ -1,9 +1,0 @@
-for(int a =0,a<=100,a++)
-{int quo = 1/2;
-int resto=a-(2*quo);
-
-if(resto==a){
-Console.Writeline(a);
-}
-
-}
